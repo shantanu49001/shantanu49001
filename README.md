@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **collaborative android native application integrating ML models to monitor family health track record**
 
-- 🌱 I’m currently learning **ML via R as Lang**
+- 🌱 I’m currently learning **ML via R&Python as Lang**
 
 - 👨‍💻 All of my projects are available at [./to be added/](./to be added/)
 
