@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantanu Tiwari,a third year UnderGrad@IIIT-G.</h1>
-<h3 align="center">I am a skilled developer with expertise in C++, Java, and R. I have extensive experience in Android native development using the Android framework, as well as some experience in cross-platform development with Flutter. Additionally, I have knowledge of machine learning and have worked on projects in that domain. My diverse skill set allows me to deliver innovative solutions across various platforms and domains.</h3>
+<h3 align="center">I am a skilled developer with expertise in C++, Kotlin, and R. I have extensive experience in Android native development using the Android framework, as well as some experience in cross-platform development with Flutter. Additionally, I have knowledge of machine learning and have worked on projects in that domain. My diverse skill set allows me to deliver innovative solutions across various platforms and domains.</h3>
 
 - 🔭 I’m currently working on **collaborative android native application integrating ML models to monitor family health track record**
 
