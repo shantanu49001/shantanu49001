@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Forte: Native Mobile Application development**
 
-- 📫 How to reach me **shantanu.tiwari21b@gmail.com**
+- 📫 How to reach me **shantanu.tiwari21b@iiitg.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
