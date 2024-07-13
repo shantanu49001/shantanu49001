@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantanu Tiwari,a third year UnderGrad@IIIT-G.</h1>
-<h3 align="center">I am a skilled developer with expertise in C++, Kotlin, and Embedded Programming. I have extensive experience in Android native development using the Android framework, as well as some skin into experience in Embedded Development.  My diverse skill set allows me to deliver innovative solutions across various platforms and domains.</h3>
+<h3 align="center">I am a skilled developer with expertise in C++, Kotlin, Backend@NodeJS ,and Embedded Programming. I have extensive experience in Android native development using the Android framework, as well as some skin into experience in Embedded Development.  My diverse skill set allows me to deliver innovative solutions across various platforms and domains.</h3>
 
 
 
